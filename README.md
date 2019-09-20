@@ -1,4 +1,4 @@
-# Multilayer_perceptron_classifier
+# Neural_net_classifier
 Classifies different types of music
 Authors: Yash Nair and Raluca Vlad
 
